@@ -3,6 +3,7 @@
 	"colors": {
 		"editor.background": "#00010D",
 		"editor.foreground": "#c0c1e2",
+		"descriptionForeground": "#a9aacc",
 		"activityBar.background": "#0b101b",
 		"activityBarBadge.background": "#D93425",
 		"sideBarTitle.foreground": "#bbb",
@@ -29,7 +30,6 @@
 		"editor.selectionBackground": "#f800003b",
 		"diffEditor.diagonalFill": "#444349",
 		"editor.selectionHighlightBackground": "#ffffff7c",
-		"editorWidget.background": "#0e1420",
 		"gitDecoration.untrackedResourceForeground": "#2d857d",
 		"gitDecoration.modifiedResourceForeground": "#4ebfd3",
 		"gitDecoration.deletedResourceForeground": "#f86060",
@@ -41,7 +41,14 @@
 		"gitDecoration.addedResourceForeground": "#00ffd5",
 		"gitDecoration.renamedResourceForeground": "#f85127",
 		"breadcrumb.foreground": "#c45f5f",
-		"button.background": "#c72323"
+		"button.background": "#c72323",
+		"editorWidget.border": "#a81a1a",
+		"editorWidget.background": "#0c101b",
+		"editorWidget.foreground": "#d03e2b",
+		"editorHoverWidget.foreground": "#fff",
+		"sash.hoverBorder": "#203552",
+		"terminal.foreground": "#cca9a9",
+		"panelTitle.activeForeground": "#ff0000",
 	},
 	"tokenColors": [
 		{
