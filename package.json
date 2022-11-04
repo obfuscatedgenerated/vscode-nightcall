@@ -1,0 +1,21 @@
+{
+    "name": "nightcall",
+    "displayName": "nightcall",
+    "description": "I'm giving you a Nightcall to tell you how I feel...",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.73.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nightcall",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nightcall-color-theme.json"
+            }
+        ]
+    }
+}

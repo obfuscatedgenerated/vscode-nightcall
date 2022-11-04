@@ -1,0 +1,5 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Ignore example files in code breakdown.
+example-files/* linguist-vendored
