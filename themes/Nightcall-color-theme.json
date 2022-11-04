@@ -23,7 +23,7 @@
 		"badge.background": "#365b69",
 		"editorLineNumber.foreground": "#5c5c5c",
 		"editorLineNumber.activeForeground": "#c7edfc",
-		"list.activeSelectionBackground": "#f7797957",
+		"list.activeSelectionBackground": "#79c9f738",
 		"diffEditor.insertedLineBackground": "#2d857d6b",
 		"diffEditor.removedLineBackground": "#d934246b",
 		"editor.selectionBackground": "#f800003b",
@@ -31,15 +31,17 @@
 		"editor.selectionHighlightBackground": "#ffffff7c",
 		"editorWidget.background": "#0e1420",
 		"gitDecoration.untrackedResourceForeground": "#2d857d",
-		"gitDecoration.modifiedResourceForeground": "#d93424",
-		"gitDecoration.deletedResourceForeground": "#44a5ff",
+		"gitDecoration.modifiedResourceForeground": "#4ebfd3",
+		"gitDecoration.deletedResourceForeground": "#f86060",
 		"gitDecoration.ignoredResourceForeground": "#5c5c5c",
 		"gitDecoration.conflictingResourceForeground": "#ff0000",
-		"gitDecoration.stageModifiedResourceForeground": "#f15344",
-		"gitDecoration.stageDeletedResourceForeground": "#60aef8",
-		"gitDecoration.submoduleResourceForeground": "#51aeca",
-		"gitDecoration.addedResourceForeground": "#00ffc8",
-		"gitDecoration.renamedResourceForeground": "#f85127"
+		"gitDecoration.stageModifiedResourceForeground": "#13b2f1",
+		"gitDecoration.stageDeletedResourceForeground": "#ff4444",
+		"gitDecoration.submoduleResourceForeground": "#515dca",
+		"gitDecoration.addedResourceForeground": "#00ffd5",
+		"gitDecoration.renamedResourceForeground": "#f85127",
+		"breadcrumb.foreground": "#c45f5f",
+		"button.background": "#c72323"
 	},
 	"tokenColors": [
 		{
