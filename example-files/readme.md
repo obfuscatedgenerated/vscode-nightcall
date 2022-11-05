@@ -1,9 +1,10 @@
 # Theme
 
-**bold text** *italicized text* ~~strike through.~~
+**bold text** *italicized text* ~~strike through.~~ **_bold italicized text_**
 
 > this is a block quote
 
+[link to google](https://www.google.com)
 
 ### Ordered list
 

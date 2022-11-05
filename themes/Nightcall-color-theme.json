@@ -540,7 +540,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#d33a3a"
 			}
 		},
 		{
@@ -550,7 +550,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#f07178"
+				"foreground": "#71e1f0"
 			}
 		},
 		{
@@ -575,18 +575,18 @@
 				"markup.quote markup.bold string"
 			],
 			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#f07178"
+				"fontStyle": "bold italic",
+				"foreground": "#e571f0"
 			}
 		},
 		{
-			"name": "Markup - Underline",
+			"name": "Markup - Underline (and link body in markdown)",
 			"scope": [
 				"markup.underline"
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#F78C6C"
+				"foreground": "#f76cbd"
 			}
 		},
 		{
