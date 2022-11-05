@@ -107,7 +107,16 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#D93425"
+			}
+		},
+		{
+			"name": "Misc",
+			"scope": [
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -115,11 +124,9 @@
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#D93425"
+				"foreground": "#f3bcbc",
 			}
 		},
 		{
