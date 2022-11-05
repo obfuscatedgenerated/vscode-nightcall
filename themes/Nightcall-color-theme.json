@@ -53,6 +53,7 @@
 		"notifications.foreground": "#e4c2c2",
 		"editorInlayHint.background": "#00000000",
 		"editorInlayHint.foreground": "#6e6f8d",
+		"debugToolBar.background": "#091225",
 	},
 	"semanticHighlighting": true,
 	"tokenColors": [
