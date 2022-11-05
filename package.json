@@ -9,7 +9,7 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git://github.com/obfuscatedgenerated/nightcall.git"
+        "url": "git://github.com/obfuscatedgenerated/vscode-nightcall.git"
     },
     "engines": {
         "vscode": "^1.73.0"
