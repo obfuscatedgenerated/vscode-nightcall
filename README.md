@@ -4,6 +4,8 @@
 
 Nightcall is a dark and deep theme for VSCode inspired by Kavinsky's Nightcall.
 
+This theme is still in development, so expect a few inconsistencies and a lot of changes.
+
 [Marketplace](https://marketplace.visualstudio.com/items?itemName=obfuscatedgenerated.nightcall)
 
 [Theme Tester](https://vscode.dev/theme/obfuscatedgenerated.nightcall)
