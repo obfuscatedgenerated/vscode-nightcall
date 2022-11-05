@@ -20,3 +20,13 @@ def e():
     return 1
 
 print(e())
+
+class Hello:
+    def __init__(self):
+        pass
+
+    def say(self):
+        print('Hello World')
+
+h = Hello()
+h.say()

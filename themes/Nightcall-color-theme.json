@@ -52,6 +52,7 @@
 		"panelTitle.activeForeground": "#ff0000",
 		"notifications.foreground": "#e4c2c2"
 	},
+	"semanticHighlighting": true,
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -143,24 +144,38 @@
 			}
 		},
 		{
-			"name": "Function, Special Method",
+			"name": "Function, Special Method, Builtin Function",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
-				"variable.function",
-				"keyword.other.special-method"
-			],
-			"settings": {
-				"foreground": "#b3e9ff"
-			}
-		},
-		{
-			"name": "Built-in Function",
-			"scope": [
+				"keyword.other.special-method",
 				"support.function",
 			],
 			"settings": {
 				"foreground": "#ff006a"
+			}
+		},
+		{
+			"name": "Imported Member and Self Reference (JS and C# etc.)",
+			"scope": [
+				"variable.function",
+				"variable.other.object",
+				"variable.language.this",
+				"variable.language.super",
+				"support.function.git-rebase"
+			],
+			"settings": {
+				"foreground": "#38b5d4"
+			}
+		},
+		{
+			"name": "Built-in Constant",
+			"scope": [
+				"constant.language",
+				"support.constant",
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "#0011ff"
 			}
 		},
 		{
@@ -226,7 +241,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#6c7af8"
+				"foreground": "#1ab6d1"
 			}
 		},
 		{
