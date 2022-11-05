@@ -2,3 +2,9 @@
 .vscode-test/**
 .gitignore
 vsc-extension-quickstart.md
+example-files/**
+.dccache
+assets/kavinsky_bg.png
+assets/kavinsky_cutout.png
+assets/kavinsky_cutout_lit.png
+assets/kavinsky_original.png

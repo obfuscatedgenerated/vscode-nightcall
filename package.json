@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "author": "obfuscatedgenerated",
     "publisher": "obfuscatedgenerated",
-    "icon": "kavinsky_icon.png",
+    "icon": "assets/kavinsky_icon.png",
     "license": "MIT",
     "repository": {
         "type": "git",
