@@ -50,6 +50,7 @@
 		"sash.hoverBorder": "#203552",
 		"terminal.foreground": "#cca9a9",
 		"panelTitle.activeForeground": "#ff0000",
+		"notifications.foreground": "#e4c2c2"
 	},
 	"tokenColors": [
 		{
