@@ -22,7 +22,7 @@
 		"statusBar.background": "#0e172c",
 		"statusBar.debuggingBackground": "#d03e2b",
 		"titleBar.activeBackground": "#0f1522",
-		"badge.background": "#365b69",
+		"badge.background": "#c44545",
 		"editorLineNumber.foreground": "#5c5c5c",
 		"editorLineNumber.activeForeground": "#c7edfc",
 		"list.activeSelectionBackground": "#79c9f738",
