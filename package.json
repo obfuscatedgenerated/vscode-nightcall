@@ -1,8 +1,15 @@
 {
     "name": "nightcall",
-    "displayName": "nightcall",
+    "displayName": "Nightcall",
     "description": "I'm giving you a Nightcall to tell you how I feel...",
     "version": "0.0.1",
+    "author": "obfuscatedgenerated",
+    "publisher": "obfuscatedgenerated",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/obfuscatedgenerated/nightcall.git"
+    },
     "engines": {
         "vscode": "^1.73.0"
     },
@@ -17,5 +24,9 @@
                 "path": "./themes/Nightcall-color-theme.json"
             }
         ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
     }
 }
