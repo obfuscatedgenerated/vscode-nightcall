@@ -146,11 +146,19 @@
 				"entity.name.function",
 				"meta.function-call",
 				"variable.function",
-				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
 				"foreground": "#b3e9ff"
+			}
+		},
+		{
+			"name": "Built-in Function",
+			"scope": [
+				"support.function",
+			],
+			"settings": {
+				"foreground": "#ff006a"
 			}
 		},
 		{
