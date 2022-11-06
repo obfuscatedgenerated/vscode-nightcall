@@ -1,5 +1,7 @@
 # Nightcall
 
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/obfuscatedgenerated.vscode-nightcall) ![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/d/obfuscatedgenerated.vscode-nightcall?label=installs) ![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/obfuscatedgenerated.vscode-nightcall)](https://marketplace.visualstudio.com/items?itemName=obfuscatedgenerated.vscode-nightcall)
+
 > _I'm giving you a nightcall to tell you how I feel..._
 
 Nightcall is a dark and deep theme for VSCode inspired by Kavinsky's Nightcall.
